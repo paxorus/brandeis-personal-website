@@ -28,8 +28,15 @@
 <!-- header block -->
 <p class="text-hold">
 	Prakhar Sahay
-	<br>Software Engineer on Video Data Infrastructure
-	<br>Twitter
+	<br />Software Engineer on Video Data Infrastructure
+	<br />Twitter
+	<br />
+	<br />
+
+	<a href="https://github.com/paxorus"><img class="logo" src="images/logo-github.png" /></a>
+	<a href="mailto:prakhar@brandeis.edu?Subject=Hi,%20Prakhar!" target="_top"><img class="logo" src="images/logo-gmail.png" /></a>
+	<a href="https://www.linkedin.com/in/tectonic"><img class="logo" src="images/logo-linkedin.png" /></a>
+	<a href="https://www.facebook.com/prakhar.studios"><img class="logo" src="images/logo-facebook.png" /></a>
 </p>
 
 <!-- previous work block -->
@@ -39,14 +46,7 @@
 		<li>Wayfair (2017 - 2019): Software Engineer on Customer Data Systems</li>
 		<li>Charles River Analytics (2017): Intern with Sensor Processing and Networking Division</li>
 		<li>MathWorks (2015, 2016): Intern with Computational Biology Team, MATLAB Editor Team</li>
-		<li>Department of Computer Science (2014 - 2017): TA for Cosi 11a, 29a, 166b + 167b, 121b</li>
-		<li>Department of Biology (2013 - 2016): Research Assistant at Rosbash Lab, Nelson Lab, and Lau Lab</li>
 	</ul>
-	
-	<a href="https://github.com/paxorus"><img class="logo" src="images/logo-github.png"></a>
-	<a href="mailto:prakhar@brandeis.edu?Subject=Hi,%20Prakhar!" target="_top"><img class="logo" src="images/logo-gmail.png"></a>
-	<a href="https://www.linkedin.com/in/tectonic"><img class="logo" src="images/logo-linkedin.png"></a>
-	<a href="https://www.facebook.com/prakhar.studios"><img class="logo" src="images/logo-facebook.png"></a>
 </div>
 
 <br>
@@ -55,6 +55,8 @@
 	Previous education:
 	<ul>
 		<li>Brandeis University, B.S. in Math, Biology, and Computer Science (2017)</li>
+		<li>Department of Computer Science (2014 - 2017): TA for Cosi 11a, 29a, 166b + 167b, 121b</li>
+		<li>Department of Biology (2013 - 2016): Research Assistant at Rosbash Lab, Nelson Lab, and Lau Lab</li>
 		<li>Acton-Boxborough Regional High School (2013)</li>
 	</ul>
 </div>
@@ -64,71 +66,71 @@
 <div class="text-hold">
 <table id="course-table"><tbody>
 <tr>
-	<td data-class-name="Programming in Java and C">Cosi 11a</td>
-	<td data-class-name="Archaeology of Power">Anth 136a</td>
-	<td data-class-name="Honors Organic Chemistry">Chem 25a</td>
-	<td data-class-name="Honors Linear Algebra">Math 22a</td>
+	<td data-course-id="Cosi 11a">Programming in Java and C</td>
+	<td data-course-id="Anth 136a">Archaeology of Power</td>
+	<td data-course-id="Chem 25a">Honors Organic Chemistry</td>
+	<td data-course-id="Math 22a">Honors Linear Algebra</td>
 </tr>
 <tr>
-	<td data-class-name="Advanced Programming Techniques">Cosi 12b</td>
-	<td data-class-name="Visual Politics of Museum Exhibition">Uws 1a</td>
-	<td data-class-name="Honors Organic Chemistry">Chem 25b</td>
-	<td data-class-name="Honors Multivariable Calculus">Math 22b</td>
-	<td data-class-name="Genetics and Genomics">Biol 14a</td>
+	<td data-course-id="Cosi 12b">Advanced Programming Techniques</td>
+	<td data-course-id="Uws 1a">Visual Politics of Museum Exhibition</td>
+	<td data-course-id="Chem 25b">Honors Organic Chemistry</td>
+	<td data-course-id="Math 22b">Honors Multivariable Calculus</td>
+	<td data-course-id="Biol 14a">Genetics and Genomics</td>
 </tr>
 <tr>
 	<!-- went to Australia -->
-	<td data-class-name="Biostatistics">Biol 51a</td>
+	<td data-course-id="Biol 51a">Biostatistics</td>
 </tr>
 <tr>
-	<td data-class-name="Data Structures">Cosi 21a</td>
-	<td data-class-name="Discrete Structures">Cosi 29a</td>
-	<td data-class-name="Chemical Biology">Cbio 101a</td>
-	<td data-class-name="Computational Molecular Biology">Cosi 178a</td>
-	<td data-class-name="Physics Laboratory I">Phys 19a</td>
+	<td data-course-id="Cosi 21a">Data Structures</td>
+	<td data-course-id="Cosi 29a">Discrete Structures</td>
+	<td data-course-id="Cbio 101a">Chemical Biology</td>
+	<td data-course-id="Cosi 178a">Computational Molecular Biology</td>
+	<td data-course-id="Phys 19a">Physics Laboratory I</td>
 </tr>
 <tr>
-	<td data-class-name="Scientific Data Processing in Matlab">Cosi 177a</td>
-	<td data-class-name="Cells and Organisms">Biol 15b</td>
-	<td data-class-name="Advanced Cellular Biology">Biol 100b</td>
-	<td data-class-name="Introductory Physics II">Phys 11b</td>
-</tr>
-<tr>
-	<!-- interned at MathWorks -->
-</tr>
-<tr>
-	<td data-class-name="Probability">Math 36a</td>
-	<td data-class-name="Combinatorics">Math 39a</td>
-	<td data-class-name="Mobile Application Development">Cosi 153a</td>
-	<td data-class-name="Introduction to Comparative Studies">Anth 1a</td>
-	<td data-class-name="General Biology Laboratory">Biol 18b</td>
-</tr>
-<tr>
-	<td data-class-name="Population Genetics/Genomics">Nbio 123b</td>
-	<td data-class-name="Structure and Interpretation of Computer Programs">Cosi 121b</td>
-	<td data-class-name="Theory of Computation">Cosi 130a</td>
-	<td data-class-name="Research Internship and Analysis">Biol 93a</td>
-	<td data-class-name="General Biology Laboratory">Biol 18a</td>
+	<td data-course-id="Cosi 177a">Scientific Data Processing in Matlab</td>
+	<td data-course-id="Biol 15b">Cells and Organisms</td>
+	<td data-course-id="Biol 100b">Advanced Cellular Biology</td>
+	<td data-course-id="Phys 11b">Introductory Physics II</td>
 </tr>
 <tr>
 	<!-- interned at MathWorks -->
-	<td data-class-name="Introduction to Drawing">Fa 3a</td>
 </tr>
 <tr>
-	<td data-class-name="Symbolic Logic">Phil 6a</td>
-	<td data-class-name="Evolution and Biodiversity">Biol 16a</td>
-	<td data-class-name="Operating Systems">Cosi 131a</td>
-	<td data-class-name="Big Data Analysis">Cosi 129a</td>
-	<td data-class-name="Programming for Linguistics">Ling 131a</td>
-	<td data-class-name="Organic Chemistry Laboratory I">Chem 29a</td>
+	<td data-course-id="Math 36a">Probability</td>
+	<td data-course-id="Math 39a">Combinatorics</td>
+	<td data-course-id="Cosi 153a">Mobile Application Development</td>
+	<td data-course-id="Anth 1a">Introduction to Comparative Studies</td>
+	<td data-course-id="Biol 18b">General Biology Laboratory</td>
 </tr>
 <tr>
-	<td data-class-name="Groups">Math 28a</td>
-	<td data-class-name="Differential Equations">Math 37a</td>
-	<td data-class-name="Introduction to Differential Geometry">Math 102a</td>
-	<td data-class-name="Introduction to Complex Analysis">Math 115a</td>
-	<td data-class-name="3D Game Development and Networking in Blender">Cosi 98b</td>
-	<td data-class-name="Organic Chemistry Laboratory II">Chem 29b</td>
+	<td data-course-id="Nbio 123b">Population Genetics/Genomics</td>
+	<td data-course-id="Cosi 121b">Structure and Interpretation of Computer Programs</td>
+	<td data-course-id="Cosi 130a">Theory of Computation</td>
+	<td data-course-id="Biol 93a">Research Internship and Analysis</td>
+	<td data-course-id="Biol 18a">General Biology Laboratory</td>
+</tr>
+<tr>
+	<!-- interned at MathWorks -->
+	<td data-course-id="Fa 3a">Introduction to Drawing</td>
+</tr>
+<tr>
+	<td data-course-id="Phil 6a">Symbolic Logic</td>
+	<td data-course-id="Biol 16a">Evolution and Biodiversity</td>
+	<td data-course-id="Cosi 131a">Operating Systems</td>
+	<td data-course-id="Cosi 129a">Big Data Analysis</td>
+	<td data-course-id="Ling 131a">Programming for Linguistics</td>
+	<td data-course-id="Chem 29a">Organic Chemistry Laboratory I</td>
+</tr>
+<tr>
+	<td data-course-id="Math 28a">Groups</td>
+	<td data-course-id="Math 37a">Differential Equations</td>
+	<td data-course-id="Math 102a">Introduction to Differential Geometry</td>
+	<td data-course-id="Math 115a">Introduction to Complex Analysis</td>
+	<td data-course-id="Cosi 98b">3D Game Development and Networking in Blender</td>
+	<td data-course-id="Chem 29b">Organic Chemistry Laboratory II</td>
 </tr>
 </tbody></table>
 </div>
@@ -141,18 +143,18 @@ Last updated: 22 March 2020
 
 <script src="jquery.min.js"></script>
 <script>
-var SCALE=.6;
-
 function handlerIn(evt) {
-	// set "Biostatistics"
-	this.dataset.classCode = this.textContent;
-	$(this).text(this.dataset.className);
+	// set "Biol 51a"
+	this.dataset.courseFullName = this.textContent;
+	const formerHeight = $(this).height();
+	$(this).text(this.dataset.courseId);
 	$(this).css("color", "#22aaff");
+	$(this).height(formerHeight);
 }
 
 function handlerOut(evt) {
-	// set "Biol 51a"
-	$(this).text(this.dataset.classCode);
+	// set "Biostatistics"
+	$(this).text(this.dataset.courseFullName);
 	$(this).css("color", "#ffffff");
 }
 
