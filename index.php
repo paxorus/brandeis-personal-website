@@ -28,24 +28,25 @@
 <!-- header block -->
 <p class="text-hold">
 	Prakhar Sahay
-	<br>Software Engineer on Customer Data Systems
-	<br>Wayfair
+	<br>Software Engineer on Video Data Infrastructure
+	<br>Twitter
 </p>
 
 <!-- previous work block -->
 <div class="text-hold">
 	Previous work:
 	<ul>
+		<li>Wayfair (2017 - 2019): Software Engineer on Customer Data Systems</li>
 		<li>Charles River Analytics (2017): Intern with Sensor Processing and Networking Division</li>
 		<li>MathWorks (2015, 2016): Intern with Computational Biology Team, MATLAB Editor Team</li>
 		<li>Department of Computer Science (2014 - 2017): TA for Cosi 11a, 29a, 166b + 167b, 121b</li>
 		<li>Department of Biology (2013 - 2016): Research Assistant at Rosbash Lab, Nelson Lab, and Lau Lab</li>
 	</ul>
 	
-	<img class="logo" src="images/logo-github.png" onclick="location.href='https://github.com/paxorus'">
+	<a href="https://github.com/paxorus"><img class="logo" src="images/logo-github.png"></a>
 	<a href="mailto:prakhar@brandeis.edu?Subject=Hi,%20Prakhar!" target="_top"><img class="logo" src="images/logo-gmail.png"></a>
-	<img class="logo" src="images/logo-linkedin.png" onclick="location.href='https://www.linkedin.com/in/tectonic'">
-	<img class="logo" src="images/logo-facebook.png" onclick="location.href='https://www.facebook.com/prakhar.studios'">
+	<a href="https://www.linkedin.com/in/tectonic"><img class="logo" src="images/logo-linkedin.png"></a>
+	<a href="https://www.facebook.com/prakhar.studios"><img class="logo" src="images/logo-facebook.png"></a>
 </div>
 
 <br>
@@ -133,7 +134,7 @@
 </div>
 
 <p class="text-hold">
-Last updated: 1 July 2018
+Last updated: 22 March 2020
 </p>
 
 </body>
